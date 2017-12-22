@@ -1,0 +1,2 @@
+In diesem Ordner werden standardmäßig ein tägliches Backup der Ergebnisdatei abgelegt. 
+Es wird bei jedem Speichervorgang überschrieben, bis das Datum wechselt.
